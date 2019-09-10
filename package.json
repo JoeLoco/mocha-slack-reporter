@@ -1,0 +1,19 @@
+{
+  "name": "mocha-slack-reporter",
+  "version": "1.0.0",
+  "description": "a mocha slack reporter",
+  "main": "slack-reporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeLoco/mocha-slack-reporter.git"
+  },
+  "author": "joao.santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeLoco/mocha-slack-reporter/issues"
+  },
+  "homepage": "https://github.com/JoeLoco/mocha-slack-reporter#readme"
+}
